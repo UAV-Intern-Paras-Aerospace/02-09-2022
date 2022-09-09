@@ -1,1 +1,1 @@
-# 2-09-2022
+learned about I2C and other basic libraries required for arduino couldn't perfom the task as i2c signal sent by every sonsor is very unique and sensor dependent which changes from sensor to sensor tried to learn the signal format and data which is being sent but couldn't understand the signal fromat.
